@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-04-Encapsulation/part-04-Encapsulation.csproj": {}
+    "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-04-Encapsulation/part-04-Encapsulation.csproj": {}
   },
   "projects": {
-    "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-04-Encapsulation/part-04-Encapsulation.csproj": {
+    "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-04-Encapsulation/part-04-Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-04-Encapsulation/part-04-Encapsulation.csproj",
+        "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-04-Encapsulation/part-04-Encapsulation.csproj",
         "projectName": "part-04-Encapsulation",
-        "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-04-Encapsulation/part-04-Encapsulation.csproj",
+        "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-04-Encapsulation/part-04-Encapsulation.csproj",
         "packagesPath": "/Users/manoj/.nuget/packages/",
-        "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-04-Encapsulation/obj/",
+        "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-04-Encapsulation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/manoj/.nuget/NuGet/NuGet.Config"

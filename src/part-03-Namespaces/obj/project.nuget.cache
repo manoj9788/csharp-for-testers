@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZJUZo6yCPfPfqWht/QB3iLTTSRUAeUkFt3XH7ngkF631OQYlqpKe6sXPUDtGMr3S0EjgUV09M708rWHUhmkEg==",
+  "dgSpecHash": "rlVovJHz5xWQuB1l/ilNedWKf3QFI7fmIicHRCf10HDh6zMQ9u8zIwZxbFjD7fHOPZfSOi47MBhM5fDx9vd/wA==",
   "success": true,
-  "projectFilePath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-03-Namespaces/part-03-Namespaces.csproj",
+  "projectFilePath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-03-Namespaces/part-03-Namespaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

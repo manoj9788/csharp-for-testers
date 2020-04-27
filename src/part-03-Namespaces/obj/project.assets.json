@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-03-Namespaces/part-03-Namespaces.csproj",
+      "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-03-Namespaces/part-03-Namespaces.csproj",
       "projectName": "part-03-Namespaces",
-      "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-03-Namespaces/part-03-Namespaces.csproj",
+      "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-03-Namespaces/part-03-Namespaces.csproj",
       "packagesPath": "/Users/manoj/.nuget/packages/",
-      "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-03-Namespaces/obj/",
+      "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-03-Namespaces/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/manoj/.nuget/NuGet/NuGet.Config"

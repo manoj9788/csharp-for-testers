@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-07-Collections/part-07-Collections.csproj": {}
+    "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-07-Collections/part-07-Collections.csproj": {}
   },
   "projects": {
-    "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-07-Collections/part-07-Collections.csproj": {
+    "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-07-Collections/part-07-Collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-07-Collections/part-07-Collections.csproj",
+        "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-07-Collections/part-07-Collections.csproj",
         "projectName": "part-07-Collections",
-        "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-07-Collections/part-07-Collections.csproj",
+        "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-07-Collections/part-07-Collections.csproj",
         "packagesPath": "/Users/manoj/.nuget/packages/",
-        "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/part-07-Collections/obj/",
+        "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-07-Collections/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/manoj/.nuget/NuGet/NuGet.Config"

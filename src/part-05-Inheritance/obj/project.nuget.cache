@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zvoLIIvCWtimUiWOk8Vj9gNfnP9qszzho3J5Sr2BlVVy2ag9MuHURgAIUhpzSpKGG66gsFz6TFOFITAwqoLyQg==",
+  "dgSpecHash": "Hp6M7YZuRWRq9WbLkmcIziZAxWyNGIw/uMorQF78z/m2X+Myi2qwSqOFSjl77MlD9lh+F7Wb3BnDxplkDzMWtw==",
   "success": true,
-  "projectFilePath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Inheritance/Inheritance.csproj",
+  "projectFilePath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-05-Inheritance/Inheritance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

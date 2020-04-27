@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Inheritance/Inheritance.csproj": {}
+    "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-05-Inheritance/Inheritance.csproj": {}
   },
   "projects": {
-    "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Inheritance/Inheritance.csproj": {
+    "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-05-Inheritance/Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Inheritance/Inheritance.csproj",
+        "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-05-Inheritance/Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Inheritance/Inheritance.csproj",
+        "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-05-Inheritance/Inheritance.csproj",
         "packagesPath": "/Users/manoj/.nuget/packages/",
-        "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Inheritance/obj/",
+        "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-05-Inheritance/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/manoj/.nuget/NuGet/NuGet.Config"

@@ -16,7 +16,7 @@ public class SerializeExample
 {  
     public static void Main(string[] args)  
     {  
-        FileStream stream = new FileStream("sss.txt", FileMode.OpenOrCreate);  
+        FileStream stream = new FileStream("sample.txt", FileMode.OpenOrCreate);  
         BinaryFormatter formatter=new BinaryFormatter();  
           
         Student s = new Student(101, "sonoo");  

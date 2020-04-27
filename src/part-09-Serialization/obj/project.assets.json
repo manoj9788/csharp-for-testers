@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Serialization/Serialization.csproj",
+      "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-09-Serialization/Serialization.csproj",
       "projectName": "Serialization",
-      "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Serialization/Serialization.csproj",
+      "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-09-Serialization/Serialization.csproj",
       "packagesPath": "/Users/manoj/.nuget/packages/",
-      "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Serialization/obj/",
+      "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-09-Serialization/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/manoj/.nuget/NuGet/NuGet.Config"

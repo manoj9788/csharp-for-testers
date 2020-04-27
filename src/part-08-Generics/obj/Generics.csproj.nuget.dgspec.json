@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Generics/Generics.csproj": {}
+    "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-08-Generics/Generics.csproj": {}
   },
   "projects": {
-    "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Generics/Generics.csproj": {
+    "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-08-Generics/Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Generics/Generics.csproj",
+        "projectUniqueName": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-08-Generics/Generics.csproj",
         "projectName": "Generics",
-        "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Generics/Generics.csproj",
+        "projectPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-08-Generics/Generics.csproj",
         "packagesPath": "/Users/manoj/.nuget/packages/",
-        "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/Generics/obj/",
+        "outputPath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-08-Generics/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/manoj/.nuget/NuGet/NuGet.Config"

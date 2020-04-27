@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kRVQgPmXhkbXJpfL7ed8ZIBGXbcr6mp7tBofRvvsve7r2dbf6xieFDTT+D1ASjNU0HBPB/MYiLwO6rdP6UITkw==",
+  "dgSpecHash": "Nz+T3EYFV2h9em1FeHCvVCWZXYFJGYwAgzkn95Y9LLRyYEtc1rMegmA7I8Ky0mLsBfgy4qPS0iUU9i702RqS0w==",
   "success": true,
-  "projectFilePath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/src/AsyncAwait/AsyncAwait.csproj",
+  "projectFilePath": "/Users/manoj/Documents/dot-net-projects/myfirstproject/myfirstproject/src/part-10-AsyncAwait/AsyncAwait.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
