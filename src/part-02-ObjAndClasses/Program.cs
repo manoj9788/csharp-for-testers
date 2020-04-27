@@ -12,7 +12,7 @@
         }  
         public void display()  
         {  
-            Console.WriteLine(id + " " + name+" "+salary);  
+            Console.WriteLine($"The Employee information is: {id} {name} {salary}");  
         }  
    }  
    class TestEmployee{  
